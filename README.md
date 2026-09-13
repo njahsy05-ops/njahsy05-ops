@@ -7,7 +7,7 @@ Jag studerar webbutveckling och lär mig bland annat HTML, Git och GitHub.
 - Git och GitHub
 - Webbutveckling
 
-- ## Mitt projekt
+## Mitt projekt
 Här kan du se mitt [webbprojekt på GitHub](https://github.com/njahsy05-ops/dt224g-Njah-Hmami).
 ## Om mig
 Jag tycker att programmering och teknik är spännande och jag vill fortsätta utveckla mina kunskaper inom *webbutveckling*.
