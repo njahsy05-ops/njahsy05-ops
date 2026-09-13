@@ -1,5 +1,5 @@
 ## Hej! Jag heter Njah 👋
-Jag studerar webbprogrammering och är intresserad av programmering, webbutveckling och teknik.
+Jag studerar webbutveckling och är intresserad av programmering och teknik.
 ## Mina studier
 Jag studerar webbutveckling och lär mig bland annat HTML, Git och GitHub.
 ## Det här lär jag mig
